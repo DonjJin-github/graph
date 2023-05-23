@@ -1,0 +1,17 @@
+[ 
+    {
+        "data": {
+            "id": "PJ-mindMap",
+            "label": "Project Driven Study Map"
+        }
+    },
+    {
+        "data": {
+            "id": "ISSUE-packageJson",
+            "label": "ISSUE-packageJson"
+        }
+    },
+    {
+        "data": { "id": "PJ-mindMap->ISSUE-packageJson", "source": "ISSUE-packageJson", "target": "PJ-mindMap" }
+    }
+]
